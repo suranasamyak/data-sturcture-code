@@ -11,7 +11,7 @@ int main(){
     }   
   }
   if(flag==1)
-    cout<<"Element Found";
+    cout<<"Element Found";    
   else
     cout<<"\n Element Not Found";
 return 0;
